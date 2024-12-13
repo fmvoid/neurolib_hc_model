@@ -1,0 +1,7 @@
+{
+    "weights_file": "/Users/fdjim/Desktop/Projects/neurolib/data/sub-0002/sc/0002_2_Counts.csv",
+    "length_file": "/Users/fdjim/Desktop/Projects/neurolib/data/sub-0002/sc/0002_2_Lengths.csv",
+    "model_params": {
+        "duration": 30000
+    }
+}
